@@ -1,0 +1,843 @@
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 1199px){
+	main
+	{
+		width: 100%;
+	}
+
+}
+
+
+@media only screen and (max-width: 1010px){
+
+	figcaption
+	{
+		font-size: 16px;
+	}
+
+	.parallax p
+	{
+		padding: 8% 0 2% 0;
+		font-size: 50px;
+	}
+
+	.user1
+	{
+		margin: 0 5% 4% 0;
+		padding: 0;
+		width: 47%;
+	}
+	
+	.user2
+	{
+		margin: 0 0 4% 0;
+		padding: 0;
+		width: 47.4%;
+	}
+
+	
+
+
+}
+
+
+@media only screen and (max-width: 844px){
+	.user1
+	{
+		margin: 0 4.8% 4% 0;
+		padding: 0;
+		width: 47%;
+	}
+	
+	.user2
+	{
+		margin: 0 0 4% 0;
+		padding: 0;
+		width: 47.4%;
+	}
+
+
+}
+
+
+
+@media only screen and (max-width: 800px){
+	.flex-container
+	{
+		width: 90%;
+	}
+
+	.deskbanner
+	{
+		display:none; 
+	}
+
+	.tabbanner
+	{
+		display: block;
+	}
+
+	.deskproduct
+	{
+		display: none;
+	}
+
+	.tabproduct
+	{
+		display: block;
+		padding:10% 0 12% 0;
+		background-color: #f4f4f4;
+	}
+
+	.tabproduct h1
+	{
+		padding-bottom: 5%;
+	}
+
+	.prod1
+	{
+		margin:0 4% 4% 0;
+		width: 48%;
+	}
+
+
+	.prod2
+	{
+		margin:0 0 4% 0;
+		width: 48%;
+	}
+
+	.prod3
+	{
+		margin:0 4% 0 0;
+		width: 48%;
+	}
+
+	.prod4
+	{
+		margin:0;
+		width: 48%;
+	}
+
+	.parallax
+	{
+		display: none;
+	}
+
+	.whoweare
+	{
+		padding:10% 0;
+	}
+
+	.whoweare p
+	{
+		padding: 0 0 2em 0;
+		width: 95%;
+	}
+
+
+	.test
+	{
+		padding:10% 0;
+	}
+
+	.user1
+	{
+		margin: 0 4.4% 1.8em 0;
+		padding: 0;
+		width: 48%;
+	}
+
+	.user2
+	{
+		margin: 0 0 1.8em 0;
+		padding: 0;
+		width: 47%;
+	}
+	
+}
+
+@media only screen and (max-width: 751px){
+	.user1
+	{
+		margin: 0 5% 4% 0;
+		padding: 0;
+		width: 47%;
+	}
+
+
+}
+
+
+
+@media only screen and (max-width: 600px){
+	
+	main
+	{
+		width: 100%;
+	}
+
+	.flex-container
+	{
+		width: 100%;
+	}
+
+	.deskbanner
+	{
+		display: none;
+	}
+
+	.tabbanner
+	{
+		display: none;
+	}
+
+	.mobbanner
+	{
+		display: block;
+	}
+
+	.tabproduct
+	{
+		display: none;
+	}
+
+	.mobproduct
+	{
+		display: block;
+		padding:15% 0;
+		background-color: #f4f4f4;
+	}
+
+	.mobproduct h1
+	{
+		padding-bottom: 6%;
+		color: #000;
+	}
+
+	.prod1
+	{
+		margin:0 5% 2.7em 5%;
+		width: 90%;
+	}
+
+	.prod1 a {
+    display: block;
+	}
+
+	.prod2
+	{
+		margin:0 5% 2.7em 5%;
+		width: 90%;
+	}
+
+	.prod2 a {
+    display: block;
+	}
+
+	.prod3
+	{
+		margin:0 5% 2.7em 5%;
+		width: 90%;
+	}
+
+	.prod3 a {
+    display: block;
+	}
+
+	.prod4
+	{
+		margin:0 5% 0 5%;
+		width: 90%;
+	}
+
+	.prod4 a {
+    display: block;
+	}
+
+	.whoweare
+	{
+		padding:15% 0;
+	}
+
+	.whoweare h1
+	{
+		padding-bottom: 4%;
+	}
+
+	.whoweare p
+	{
+		padding: 0 4% 1.8em 4%;
+		width: 92%;
+	}
+
+
+	.test
+	{
+		padding:15% 0;
+		/*background-color: #f4f4f4;*/
+	}
+
+	.test h1
+	{
+		padding-bottom: 4%;
+	}
+
+	.user1
+	{
+		margin:0 3% 2em 3%;
+		width: 94%;
+	}
+
+	.user2
+	{
+		display: none;
+		/*margin:0 3% 6% 3%;
+		width: 94%;*/
+	}
+
+
+}
+
+
+@media only screen and (max-width: 400px){
+
+	.mobproduct
+	{
+		padding: 20% 0;
+		background-color: #f4f4f4;
+	}
+
+	.prod1
+	{
+		margin:0 0 10% 0;
+		width: 100%;
+	}
+
+	.prod2
+	{
+		margin:0 0 10% 0;
+		width: 100%;
+	}
+
+	.prod3
+	{
+		margin:0 0 10% 0;
+		width: 100%;
+	}
+
+	.prod4
+	{
+		margin:0;
+		width: 100%;
+	}
+
+	.whoweare a
+	{
+		margin: 0 auto;
+		padding: 2% 0;
+		text-decoration: none;
+		font-family: arial;
+		font-size: 22px;
+		display: inline-block;
+		text-align: center;
+		color: #000;
+		width: 45%;
+
+	}
+
+	.user1
+	{
+		margin: 0 0 5% 0;
+		padding: 5% 0;
+		width: 100%;
+	}
+
+	.user2
+	{
+		margin: 0 0 5% 0;
+		padding: 5% 0;
+		width: 100%;
+	}
+
+	.test a
+	{
+		width: 40%;
+	}
+}
+
+
+@media only screen and (max-width: 320px){
+	.whoweare 
+	{
+    	padding: 25% 0;
+	}
+
+	.whoweare h1 
+	{
+    	font-size: 30px;
+	}
+
+	.whoweare a 
+	{
+    	padding: 3% 0;
+    	width: 55%;
+	}
+
+	.whoweare p 
+	{
+    	font-size: 17px;
+	}
+
+	.mobproduct h1
+	{
+    	padding-bottom: 3%;
+    	font-size: 30px;
+	}
+
+	.test a 
+	{
+    	width: 55%;
+	}
+
+	.test a 
+	{
+        padding: 3% 0;
+    }
+
+}
+
+
+
+
+
+
+
+/*bottom-top scroll*/
+
+
+@media only screen and (min-width: 1024px) {
+  main p {
+    font-size: 20px;
+    font-size: 1.25rem;
+  }
+
+
+.cd-top {
+  display: inline-block;
+  height: 40px;
+  width: 40px;
+  position: fixed;
+  bottom: 40px;
+  right: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  /* image replacement properties */
+  overflow: hidden;
+  text-indent: 100%;
+  white-space: nowrap;
+  background: rgba(232, 98, 86, 0.8) url(../images/cd-top-arrow.svg) no-repeat center 50%;
+  visibility: hidden;
+  opacity: 0;
+  -webkit-transition: opacity .3s 0s, visibility 0s .3s;
+  -moz-transition: opacity .3s 0s, visibility 0s .3s;
+  transition: opacity .3s 0s, visibility 0s .3s;
+}
+.cd-top.cd-is-visible, .cd-top.cd-fade-out, .no-touch .cd-top:hover {
+  -webkit-transition: opacity .3s 0s, visibility 0s 0s;
+  -moz-transition: opacity .3s 0s, visibility 0s 0s;
+  transition: opacity .3s 0s, visibility 0s 0s;
+}
+.cd-top.cd-is-visible {
+  /* the button becomes visible */
+  visibility: visible;
+  opacity: 1;
+}
+.cd-top.cd-fade-out {
+  /* if the user keeps scrolling down, the button is out of focus and becomes less visible */
+  opacity: 2.5;
+}
+.no-touch .cd-top:hover {
+  background-color: #2098d1;
+  opacity: 1;
+}
+
+}
+@media only screen and (min-width: 768px){
+  .cd-top {
+    right: 20px;
+    bottom: 20px;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .cd-top {
+    height: 60px;
+    width: 60px;
+    right: 30px;
+    bottom: 30px;
+  }
+}
+
+
+/*---------navbar----------*/
+
+
+@media only screen and (max-width: 1010px){
+.user2 {
+    margin: 0 0 4% 0;
+    padding: 0;
+    width: 47.4%;
+}
+
+@media only screen and (max-width: 1010px){
+.user1 {
+    margin: 0 5% 4% 0;
+    padding: 0;
+    width: 47%;
+}
+
+@media all and (max-width : 800px)
+{
+
+  
+nav
+  {
+    width: 90%;
+  }
+}
+
+
+
+@media all and (max-width : 768px) {
+
+#logo {
+  display: block;
+  padding: 0;
+  width: 100%;
+  text-align: center;
+  float: none;
+}
+
+
+nav {
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+  /*background-color: #3b3b3b;*/
+}
+
+
+nav a
+{font-family: arial;
+  font-size: 17px;
+}
+
+.menu
+{
+  width: 100%;
+}
+
+.toggle + a,
+ .menu { display: none; }
+
+.toggle {
+  display: block;
+  background-color: #f69f41;
+  padding: 0 20px;
+  color: #FFF;
+  font-family: arial;
+  font-size: 17px;
+  line-height: 60px;
+  text-decoration: none;
+  border: none;
+}
+
+.toggle span
+{
+  margin: 0 0 0 87%;
+}
+
+.toggle:hover { background-color: #f69f41; }
+
+[id^=drop]:checked + ul { display: block;}
+
+
+nav ul li {
+  display: block;
+  width: 100%;
+}
+
+
+nav ul ul .toggle,
+
+nav ul ul a { padding: 0 40px; }
+
+
+nav ul ul ul a { padding: 0 80px; }
+
+nav a:hover,
+
+navy ul ul ul a { background-color:  #f6dd6b; }
+
+
+nav ul li ul li .toggle,
+
+nav ul ul a { background-color: #212121; }
+
+nav ul ul ul a { background-color: #212121; }
+
+
+nav ul ul {
+  float: none;
+  position: static;
+  color: #ffffff;
+}
+
+
+nav ul ul li:hover > ul,
+
+nav ul li:hover > ul { display: none; }
+
+
+nav ul ul li {
+  display: block;
+  width: 100%;
+}
+
+nav ul ul ul li { position: static;
+
+}
+}
+
+
+@media all and (max-width : 600px) {
+  .toggle span
+  {
+    margin: 0 0 0 80%;
+  }
+}
+
+@media all and (max-width : 370px) {
+  .toggle span
+  {
+    margin: 0 0 0 70%;
+  }
+}
+
+@media all and (max-width : 330px) {
+
+nav ul li {
+  display: block;
+  width: 100%;
+}
+
+}
+
+
+
+@media only screen and (max-width: 600px)
+{
+	.logo
+	{
+		margin: 0;
+		padding: 1em 0 1em 0;
+		width: 100%;
+		text-align: center;
+	}
+
+	.logo img
+ 	{
+ 		margin: 0 auto;
+ 		width: 70%;
+ 	}
+
+	.callus
+	{
+		margin: 0;
+		width: 100%;
+	}
+
+	.callus p
+	{
+		padding: 0 0 4% 0;
+		font-family: arial;
+		font-size: 20px;
+		text-align: center;
+	}
+}
+
+
+
+@media only screen and (max-width: 400px)
+{
+	.logo img
+ 	{
+ 		width: 60%;
+ 	}
+
+ }
+ 
+ 
+@media only screen and (max-width: 800px)
+{
+	footer
+	{
+		padding:10% 0;
+	}
+
+	.leftfoot
+	{	
+		margin: 0 0 0 3%;
+		width: 24%;
+	}
+
+	.midfoot
+	{
+		width: 46%;
+	}
+
+	.deskcontact
+	{
+		display: none;
+	}
+
+	.mobilecontact
+	{
+		display: block;
+	}
+
+	.rightfoot
+	{
+		width: 27%;
+	}
+
+}
+
+@media only screen and (max-width: 600px)
+{
+	footer
+	{
+		padding:15% 0;
+	}
+
+	.leftfoot
+	{
+		display: none;
+	}
+
+	/*.leftfoot
+	{
+		margin: 0 0 5% 0;
+		width: 100%;
+	}*/
+
+
+	.footernav
+	{
+		text-align: center;
+	}
+
+	.midfoot
+	{
+		margin: 0 0 8% 0;
+		width: 100%;
+	}
+
+	.midfoot h3
+	{
+		text-align: center;
+	}
+
+	.midfoot .mobilecontact
+	{
+		text-align: center;
+
+	}
+
+	.contact
+	{
+		text-align: center;
+	}
+
+
+	.rightfoot
+	{
+		width: 100%;
+	}
+
+	.rightfoot h3
+	{
+		text-align: center;
+	}
+
+	.social
+	{
+		text-align: center;
+	}
+
+	.deskcopy
+	{
+		display: none;
+	}
+
+	.mobcopy
+	{
+		display: block;
+		padding:1.5em 0;
+	}
+}
+
+
+
+@media only screen and (max-width: 400px)
+{
+	.leftfoot
+	{
+		margin: 0 0 10% 0;
+		width: 100%;
+	}
+
+	.midfoot
+	{
+		margin: 0 0 10% 0;
+		width: 100%;
+	}
+
+} 
+
+
+@media all and (max-width:760px) {
+	#wowslider-container1 .ws_fullscreen {
+		display: block;
+	}
+}
+@media all and (max-width:400px){
+	#wowslider-container1 .ws_controls,
+	#wowslider-container1 .ws_bullets,
+	#wowslider-container1 .ws_thumbs{
+		display: none
+	}
+}
+
+
+@media only screen and (min-width: 768px) {
+  .cd-top {
+    right: 20px;
+    bottom: 20px;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .cd-top {
+    height: 60px;
+    width: 60px;
+    right: 30px;
+    bottom: 30px;
+  }
+}
